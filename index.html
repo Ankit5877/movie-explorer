@@ -1,29 +1,26 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Movie Explorer</title>
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="container">
     <h1>🎬 Movie Explorer</h1>
-
-    <input type="text" id="searchInput" placeholder="Search for movies..." />
+    <input type="text" id="searchInput" placeholder="Search for movies...">
     <button id="toggleFavorites">Show Favorites</button>
+    <div id="loader" class="hidden">Loading...</div>
+    <div id="results"></div>
+  </div>
 
-    <div id="loader" class="loader hidden"></div>
-    <div id="moviesContainer"></div>
-
-    <div id="modal" class="modal hidden">
-      <div class="modal-content">
-        <span class="close">&times;</span>
-        <div id="modalDetails"></div>
-      </div>
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <div id="modalDetails"></div>
     </div>
   </div>
 
-  <script src="script.js"></script>
+  <script src="script.js" defer></script>
 </body>
 </html>
