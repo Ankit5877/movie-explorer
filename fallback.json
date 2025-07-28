@@ -1,0 +1,72 @@
+[
+  {
+    "Title": "Interstellar",
+    "Year": "2014",
+    "Poster": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg",
+    "imdbID": "tt0816692",
+    "Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "Title": "Inception",
+    "Year": "2010",
+    "Poster": "https://m.media-amazon.com/images/I/91b5y2bmUBL._AC_SY679_.jpg",
+    "imdbID": "tt1375666",
+    "Plot": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea."
+  },
+  {
+    "Title": "The Dark Knight",
+    "Year": "2008",
+    "Poster": "https://m.media-amazon.com/images/I/51k0qa6zIQL._AC_SY679_.jpg",
+    "imdbID": "tt0468569",
+    "Plot": "When the menace known as the Joker emerges, Batman must accept one of the greatest psychological and physical tests of his ability."
+  },
+  {
+    "Title": "The Matrix",
+    "Year": "1999",
+    "Poster": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg",
+    "imdbID": "tt0133093",
+    "Plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+  },
+  {
+    "Title": "Avengers: Endgame",
+    "Year": "2019",
+    "Poster": "https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SY679_.jpg",
+    "imdbID": "tt4154796",
+    "Plot": "After the devastating events of Infinity War, the Avengers assemble once more in order to undo Thanos' actions."
+  },
+  {
+    "Title": "Iron Man",
+    "Year": "2008",
+    "Poster": "https://m.media-amazon.com/images/I/81l+9eSKR-L._AC_SY679_.jpg",
+    "imdbID": "tt0371746",
+    "Plot": "After being held captive, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+  },
+  {
+    "Title": "The Shawshank Redemption",
+    "Year": "1994",
+    "Poster": "https://m.media-amazon.com/images/I/51NiGlapXlL.jpg",
+    "imdbID": "tt0111161",
+    "Plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Poster": "https://m.media-amazon.com/images/I/51rGGQzLAML.jpg",
+    "imdbID": "tt0068646",
+    "Plot": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son."
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "Poster": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SY679_.jpg",
+    "imdbID": "tt0110912",
+    "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  },
+  {
+    "Title": "Forrest Gump",
+    "Year": "1994",
+    "Poster": "https://m.media-amazon.com/images/I/61WfMlO1bXL._AC_SY679_.jpg",
+    "imdbID": "tt0109830",
+    "Plot": "The presidencies of Kennedy and Johnson, the Vietnam War, and more through the eyes of an Alabama man with an IQ of 75."
+  }
+]
